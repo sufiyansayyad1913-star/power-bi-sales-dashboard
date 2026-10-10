@@ -30,4 +30,4 @@ This is a beginner-level portfolio project created for learning and practice.
 
 ## Dashboard Preview
 
-![Power BI Sales Dashboard](power-bi-dashboard.png)
+![Power BI Sales Dashboard](power-bi-dashboard.png.png)
