@@ -27,3 +27,7 @@ Download `Sales_Performance_Dashboard.pbix` from this repository and open it usi
 
 ## Note
 This is a beginner-level portfolio project created for learning and practice.
+
+## Dashboard Preview
+
+![Power BI Sales Dashboard](power-bi-dashboard.png)
